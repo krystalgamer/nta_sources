@@ -1,0 +1,23 @@
+|---------------------------------------|
+|					|
+|    Call of Duty Black Ops 2 (t6m)     |
+|	     Source Code		|
+|---------------------------------------|
+
+
+
+####### Credits #######
+NTAauthority or NTA (MY HERO) and He's Team -> Developer of this source code ,but some boddy edit source code
+Moien007 -> leaker of t6m or black ops 2 source code and np rX
+Marc Keirle -> db and np r17
+
+####### Info ####### 
+some name's in source code is SONSORED ;) and xNP is Sonsored too , i don't know this func\method exist or no
+you most good and smart developer to run it (fix xNP in src .etc)
+
+####### How Does It Work (Some Guide's) ####### 
+master server is np(only for t6m and iw4m) , and dw is proxy to it(only in t6m)
+
+
+####### Final Letter #######
+ENJOY :D
